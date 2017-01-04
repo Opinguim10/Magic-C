@@ -12,4 +12,6 @@ Boa sorte aos desenvolvedores que quizerem experimentar.
 
 A idle que eu uso é o code::blocks mas pode tentar com qualquer outra!
 
+OBS: O código ta dentro do .rar junto com o aplicativo executavel!
+
 -By:Pinugim10
