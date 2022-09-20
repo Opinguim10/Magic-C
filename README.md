@@ -1,4 +1,4 @@
-----------------------------------------------------Feito Por Opinguim10 em janeiro 2017------------------------------------------------------
+----------------------------------------------------Modificado Por Opinguim10 em janeiro 2017------------------------------------------------------
 Esse é um jogo RPG onde o usuario poderá fazer as ações do jogo através de comando numericos.(Mostrados na tela)
 Estes comandos são coisas basicas como qual euqipamento usar,trocar e etc..
 
